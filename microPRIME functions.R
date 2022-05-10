@@ -101,7 +101,7 @@ diab.trend.alpha.f.pe     <- -8.8070
 diab.trend.age.f.pe       <-  0.1323
 diab.trend.age.quad.f.pe  <- -0.0007
 diab.trend.year.m.pe      <-  0.0147
-diab.trend.year.quad.m.pe <- -0.0012
+diab.trend.year.quad.m.pe <-  0.0012
 diab.trend.year.f.pe      <-  0.0483
 
 ## Best case / worst case unvarying parameters for BMI trends
